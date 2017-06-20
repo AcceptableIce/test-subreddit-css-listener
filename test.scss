@@ -1,0 +1,7 @@
+@import "other";
+
+$testvar: #f00;
+
+.test {
+	color: $testvar;
+}
