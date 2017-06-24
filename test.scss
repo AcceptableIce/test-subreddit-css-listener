@@ -20,3 +20,10 @@ div#thing_t1_dixbt0r > div.entry .md:after{
 	@extend .user-override-disclaimer;
 	content: "another test";
 }/**--dixbt0r--**/
+
+/**++dixbt0r++**/
+div#thing_t1_dixbt0r > div.entry .md:after{
+	@extend .user-override-disclaimer;
+	content: "another test";
+}
+/**--dixbt0r--**/
