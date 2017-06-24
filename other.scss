@@ -5,3 +5,7 @@
 .validTest {
 	color: #f0f;
 }
+
+.invalidTest:after {
+	content: "🌽🌽🌽";
+}
