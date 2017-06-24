@@ -5,3 +5,8 @@ $testvar: #f00;
 .test {
 	color: $testvar;
 } 
+
+div#thing_t1_dixbt0r > div.entry .md:after{
+	@extend .user-override-disclaimer;
+	content: "another test";
+}
